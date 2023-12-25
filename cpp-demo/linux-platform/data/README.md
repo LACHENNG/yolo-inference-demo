@@ -1,0 +1,1 @@
+若需要测试视频和对应的检测模型onnx文件，请从阿里云盘 `Gitee私有项目大文件托管/0001onnx_infer_cpp_demo_data.exe` 下载并解压到当前目录
